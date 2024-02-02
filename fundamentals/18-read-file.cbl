@@ -6,7 +6,7 @@
        FILE-CONTROL.
        SELECT OPTIONAL EMPLEADOS-ARCHIVO
        ASSIGN TO
-       'C:\Users\Usuario\Documents\ejercicios\cobol\files\empleados.dat'
+       'empleados.dat'
        ORGANIZATION IS LINE SEQUENTIAL.
 
        DATA DIVISION.
